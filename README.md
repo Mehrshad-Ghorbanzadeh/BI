@@ -5,8 +5,8 @@
 
 
 It is my first try to create a page for Beta Index reliability software.
-You can download the installer file of software from following link: 
-https://www.dropbox.com/s/yn67c5a6bf1wekv/BetaIndex.exe?dl=0
+You can download the installer file of software from above files which named "BetaIndex.exe" or the following link:
+"blob:https://github.com/9d2b65c4-5913-4e2c-aa48-c9629f9feba4"
 After downloading the .exe file, install it by "Run as administrator".
 Follow the steps and complete the setup. Then, you can use the BI. 
 For start and give more information, You can visit the [wiki](https://github.com/Mehrshad-Ghorbanzadeh/BI/wiki) section.
