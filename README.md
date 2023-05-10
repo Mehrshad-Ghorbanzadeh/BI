@@ -5,7 +5,7 @@
 
 
 It is my first try to create a page for Beta Index reliability software.
-You can download the installer file of software from following link: 
+You can download the installer file of software from the above files (BetaIndex.exe) or following link: 
 
 [https://github.com/9d2b65c4-5913-4e2c-aa48-c9629f9feba4](https://github.com/Mehrshad-Ghorbanzadeh/BI/blob/Web-Pages/BetaIndex.exe)
 
