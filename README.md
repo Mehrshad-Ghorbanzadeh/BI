@@ -5,7 +5,7 @@
 
 
 It is my first try to create a page for Beta Index reliability software.
-You can download the installer file of software from the above files (BetaIndex.exe) or following link: 
+You can download the installer file of software from the following link: 
 
 https://mega.nz/file/epckjLTL#fr1Up5MArQg-ouqmyssBjqDwi-Z29d9P1jy5by9jWIU
 
