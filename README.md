@@ -5,9 +5,9 @@
 
 
 It is my first try to create a page for Beta Index reliability software.
-You can download the installer file of software from the following link: 
+You can download the installer file of the software from the following link: 
 
-https://mega.nz/file/epckjLTL#fr1Up5MArQg-ouqmyssBjqDwi-Z29d9P1jy5by9jWIU
+https://mega.nz/file/X9FFlK5A#8q41BXn4NltwdFaPq7N52wEIYtpWlOSXPgkgIS3VrJo
 
 After downloading the .exe file, install it by "Run as administrator".
 Follow the steps and complete the setup. Then, you can use the BI. 
