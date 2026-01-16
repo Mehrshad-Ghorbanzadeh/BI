@@ -15,6 +15,10 @@ Download from Dropbox:
 https://www.dropbox.com/scl/fi/fybvdvpolqgsxl77b2mlv/Setup_BetaIndex.exe?rlkey=cjwmppgavqbzip88vnal3fbdy&st=r94kcco2&dl=0
 
 
+https://mega.nz/file/epckjLTL#fr1Up5MArQg-ouqmyssBjqDwi-Z29d9P1jy5by9jWIU
+
+
+
 After downloading the .exe file, install it by "Run as administrator".
 Follow the steps and complete the setup. Then, you can use the BI. 
 To start and give more information, You can visit the [wiki](https://github.com/Mehrshad-Ghorbanzadeh/BI/wiki) section that includes the help sections and examples.
