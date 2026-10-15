@@ -35,6 +35,7 @@ You can download the latest installer of **BI** directly from GitHub Releases or
   <img src="https://github.com/user-attachments/assets/9a33714a-b870-4f87-9021-4f102d7d57de" width="45%" alt="SmartScreen warning" />
   <img src="https://github.com/user-attachments/assets/0775f35e-8fbf-4dab-b352-ea04005453f0" width="45%" alt="UAC prompt" />
 </p>
+
 3. Follow the setup wizard instructions to complete the installation.
 
 4. Launch **BI** and begin your reliability analyses.
