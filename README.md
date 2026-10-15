@@ -1,32 +1,3 @@
-# BI
-
-
-![220556410-7b4df65e-04d0-4ac5-84b3-f893b7510e7c](https://user-images.githubusercontent.com/53825204/220933327-b11900d1-57d1-4dd3-9e59-cae9741f958a.png)
-
-This is my first time creating a page for Beta Index reliability software.
-You can download the installer file of the software from the following link: 
-
-Download from MEGA:
-
-https://mega.nz/file/ah9VgbjB#3yfLSntm4Gic0YmYjiFRArujKpmuh1YWrfuK_M8-XnI
-
-Download from Dropbox:
-
-https://www.dropbox.com/scl/fi/fybvdvpolqgsxl77b2mlv/Setup_BetaIndex.exe?rlkey=cjwmppgavqbzip88vnal3fbdy&st=r94kcco2&dl=0
-
-
-After downloading the .exe file, install it by "Run as administrator".
-Follow the steps and complete the setup. Then, you can use the BI. 
-To start and give more information, You can visit the [wiki](https://github.com/Mehrshad-Ghorbanzadeh/BI/wiki) section that includes the help sections and examples.
-
-Good luck.
-
-Yours sincerely,
-
-Mehrshad Ghorbanzadeh
-
-
-
 # BI (Beta Index) - Structural Reliability Analysis Software
 
 ![220556410-7b4df65e-04d0-4ac5-84b3-f893b7510e7c](https://user-images.githubusercontent.com/53825204/220933327-b11900d1-57d1-4dd3-9e59-cae9741f958a.png)
@@ -48,7 +19,7 @@ You can download the latest installer of **BI** directly from GitHub Releases or
 * **Mirror 2 (Dropbox):** [Download from Dropbox](https://www.dropbox.com/scl/fi/fybvdvpolqgsxl77b2mlv/Setup_BetaIndex.exe?rlkey=cjwmppgavqbzip88vnal3fbdy&st=r94kcco2&dl=0)
 
 ### Installation Steps:
-1. Download the `Setup_BetaIndex.exe` file.
+1. Download the [Setup_BetaIndex.exe](https://github.com/Mehrshad-Ghorbanzadeh/BI/releases/download/v.10.15.2026/Setup_BetaIndex.exe) file.
 2. Right-click on the installer and select **"Run as administrator"**.
 3. Follow the setup wizard steps and complete the installation.
 4. Launch **BI** and start your reliability analyses.
