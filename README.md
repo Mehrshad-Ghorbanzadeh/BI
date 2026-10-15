@@ -17,7 +17,7 @@
 
 You can download the latest installer of **BI** directly from GitHub Releases or alternative mirrors:
 
-* **Direct Download [Setup_BetaIndex.exe](https://github.com/Mehrshad-Ghorbanzadeh/BI/releases/download/v.10.15.2026/Setup_BetaIndex.exe) file.
+* **Direct Download:** [Setup_BetaIndex.exe](https://github.com/Mehrshad-Ghorbanzadeh/BI/releases/download/v.10.15.2026/Setup_BetaIndex.exe) file.
 * **Mirror 1 (MEGA):** [Download from MEGA](https://mega.nz/file/ah9VgbjB#3yfLSntm4Gic0YmYjiFRArujKpmuh1YWrfuK_M8-XnI)
 
 * **Mirror 2 (Dropbox):** [Download from Dropbox](https://www.dropbox.com/scl/fi/fybvdvpolqgsxl77b2mlv/Setup_BetaIndex.exe?rlkey=cjwmppgavqbzip88vnal3fbdy&st=r94kcco2&dl=0)
