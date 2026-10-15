@@ -4,9 +4,9 @@
   <img src="https://user-images.githubusercontent.com/53825204/220933327-b11900d1-57d1-4dd3-9e59-cae9741f958a.png" alt="BI Cover" />
 </p>
 
-![220556410-7b4df65e-04d0-4ac5-84b3-f893b7510e7c](https://user-images.githubusercontent.com/53825204/220933327-b11900d1-57d1-4dd3-9e59-cae9741f958a.png)
-
-<img width="1672" height="941" alt="BI-Banner" src="https://github.com/user-attachments/assets/3da1c46f-6be5-44e4-9103-4b72e37a9b43" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3da1c46f-6be5-44e4-9103-4b72e37a9b43" alt="BI Software Banner" width="100%" />
+</p>
 
 
 **BI (Beta Index)** is a specialized engineering software developed for structural reliability analysis, calculating safety and reliability indices ($\beta$), and probability of failure assessments.
