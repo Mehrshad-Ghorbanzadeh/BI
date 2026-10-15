@@ -13,13 +13,13 @@
 
 You can download the latest installer of **BI** directly from GitHub Releases or alternative mirrors:
 
-* **Direct Download (Recommended - GitHub Releases):** [Download Latest Installer]sha256:29565cb96575b918c18a1d53955e156bc5f2a0ce9a53b81291a8d973b3fc4f92
+* **Direct Download [Setup_BetaIndex.exe](https://github.com/Mehrshad-Ghorbanzadeh/BI/releases/download/v.10.15.2026/Setup_BetaIndex.exe) file.
 * **Mirror 1 (MEGA):** [Download from MEGA](https://mega.nz/file/ah9VgbjB#3yfLSntm4Gic0YmYjiFRArujKpmuh1YWrfuK_M8-XnI)
 
 * **Mirror 2 (Dropbox):** [Download from Dropbox](https://www.dropbox.com/scl/fi/fybvdvpolqgsxl77b2mlv/Setup_BetaIndex.exe?rlkey=cjwmppgavqbzip88vnal3fbdy&st=r94kcco2&dl=0)
 
 ### Installation Steps:
-1. Download the [Setup_BetaIndex.exe](https://github.com/Mehrshad-Ghorbanzadeh/BI/releases/download/v.10.15.2026/Setup_BetaIndex.exe) file.
+1. Download the `Setup_BetaIndex.exe` file.
 2. Right-click on the installer and select **"Run as administrator"**.
 3. Follow the setup wizard steps and complete the installation.
 4. Launch **BI** and start your reliability analyses.
