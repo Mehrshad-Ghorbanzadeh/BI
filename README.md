@@ -20,9 +20,24 @@ You can download the latest installer of **BI** directly from GitHub Releases or
 
 ### Installation Steps:
 1. Download the `Setup_BetaIndex.exe` file.
-2. Right-click on the installer and select **"Run as administrator"**.
-3. Follow the setup wizard steps and complete the installation.
-4. Launch **BI** and start your reliability analyses.
+2. **Installation Steps & Windows Security Prompts:**  
+   Right-click on `Setup_BetaIndex.exe` and select **"Run as administrator"**.  
+   *Note: Because this is an independently developed academic/engineering tool without a commercial code-signing certificate, Windows prompts two standard security screens:*
+
+   * **Step A (SmartScreen):** Click on **"More info"**, then select **"Run anyway"**.
+   * **Step B (UAC Prompt):** Click **"Yes"** to grant permission and initiate the installation wizard.
+
+<img width="529" height="493" alt="1" src="https://github.com/user-attachments/assets/9a33714a-b870-4f87-9021-4f102d7d57de" />
+
+<img width="1665" height="1240" alt="2" src="https://github.com/user-attachments/assets/0775f35e-8fbf-4dab-b352-ea04005453f0" />
+
+
+3. Follow the setup wizard instructions to complete the installation.
+4. Launch **BI** and begin your reliability analyses.
+
+
+
+
 
 To get started and explore more detailed information, theoretical background, and examples, you can visit the [wiki](https://github.com/Mehrshad-Ghorbanzadeh/BI/wiki).
 
