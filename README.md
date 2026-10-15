@@ -27,6 +27,12 @@ You can download the latest installer of **BI** directly from GitHub Releases or
    * **Step A (SmartScreen):** Click on **"More info"**, then select **"Run anyway"**.
    * **Step B (UAC Prompt):** Click **"Yes"** to grant permission and initiate the installation wizard.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a33714a-b870-4f87-9021-4f102d7d57de" width="45%" alt="SmartScreen warning" />
+  <img src="https://github.com/user-attachments/assets/0775f35e-8fbf-4dab-b352-ea04005453f0" width="45%" alt="UAC prompt" />
+</p>
+
+
 <img width="529" height="493" alt="1" src="https://github.com/user-attachments/assets/9a33714a-b870-4f87-9021-4f102d7d57de" />
 
 <img width="1665" height="1240" alt="2" src="https://github.com/user-attachments/assets/0775f35e-8fbf-4dab-b352-ea04005453f0" />
